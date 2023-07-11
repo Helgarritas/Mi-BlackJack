@@ -4,8 +4,7 @@ Pasos para ejecutar proyecto:
 
 1. Clonar repositorio
 2. Ejecutar ```npm install``` para reconstruir los módulos de node
-3. Correr el devServer ```npm run dev```,ujtjt
-
+3. Correr el devServer ```npm run dev```somo de una raza
 ## Producción
 
 1. Ejecutar ```npm run build```
